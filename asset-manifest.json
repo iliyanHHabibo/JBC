@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JBC/static/css/main.133d3873.css",
+    "main.js": "/JBC/static/js/main.c5cff2df.js",
+    "index.html": "/JBC/index.html",
+    "main.133d3873.css.map": "/JBC/static/css/main.133d3873.css.map",
+    "main.c5cff2df.js.map": "/JBC/static/js/main.c5cff2df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133d3873.css",
+    "static/js/main.c5cff2df.js"
+  ]
+}
